@@ -16,4 +16,6 @@ mirage plush: https://sketchfab.com/3d-models/fumo-mirage-ab8220335f744798844a95
 
 virtue: https://sketchfab.com/3d-models/virtue-51c606c83d0c481f90f5ef00764045d0
 
+blade and scabbard: https://sketchfab.com/3d-models/katana--scabbard-cb591e4934484c7ea4b98d27684ae401
+
 converted to .stl format using https://convert3d.org/glb-to-stl
